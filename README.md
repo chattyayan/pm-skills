@@ -1,6 +1,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/phuryn/pm-skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/CONTRIBUTING.md)
+[![Companion: pm-skills](https://img.shields.io/badge/companion-pm--brain-blue)](https://github.com/phuryn/pm-brain)
 
 # PM Skills Marketplace: The AI Operating System for Better Product Decisions
 
@@ -421,6 +422,12 @@ Selected skills based on the work of:
 - Maja Voje — [*Go-To-Market Strategist*](https://gtmstrategist.com/)
 
 Curated by Paweł Huryn from [The Product Compass Newsletter](https://www.productcompass.pm).
+
+## Compose with PM Brain
+
+![PM Brain composes with PM Skills](.docs/images/pm-brain-pm-skills.webp)
+
+[PM Brain](https://github.com/phuryn/pm-brain) a second brain for product managers. Plain markdown files in a folder on your laptop. Claude reads them before answering, writes to them after, sweeps them every Friday. No vector DB. No cloud. No agent memory tricks.
 
 ## Contributing
 
